@@ -1,0 +1,6 @@
+.venv/
+target/
+data/graphs/
+.DS_Store
+.idea/
+*.log

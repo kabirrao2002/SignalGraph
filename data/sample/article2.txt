@@ -1,0 +1,7 @@
+Tech trends and organizations
+
+Recent discussions between Charlie Kim (Data Scientist) and DeltaWorks LLC highlighted the adoption of Rust for performance-critical components. The team contrasted Rust with Go and Python for system-level modules. They also mentioned Elasticsearch and Neo4j in the context of indexing and graph storage.
+
+Summary:
+- Rust chosen for low-level services.
+- Neo4j used for graph experiments.

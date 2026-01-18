@@ -1,0 +1,7 @@
+SignalGraph project overview
+
+Alice Johnson, a researcher at OpenAI Labs, published a short note on efficient graph embeddings. The note references PyTorch and scikit-learn as the primary tooling used in experiments. Alice also mentions collaboration with BetaCorp Inc.
+
+Key points:
+- Graph embeddings improve retrieval.
+- Implementation uses PyTorch 1.12 and NumPy.
