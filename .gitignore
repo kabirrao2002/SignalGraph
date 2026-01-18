@@ -4,3 +4,6 @@ data/graphs/
 .DS_Store
 .idea/
 *.log
+
+# Private design/decision notes (not checked into public repo)
+/docs/decisions_private.md
